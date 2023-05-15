@@ -10,7 +10,7 @@ Vue Directives Package
 
 ## Usage
 
-The directives can be used outside of the Enso ecosystem.
+The directives can be used outside of the Liberu ecosystem.
 
 ### Demo
 
@@ -24,7 +24,7 @@ Be sure to check out the full documentation for this package available at [docs.
 
 are welcome. Pull requests are great, but issues are good too.
 
-Thank you to all the people who already contributed to Enso!
+Thank you to all the people who already contributed to Liberu!
 
 ## License
 

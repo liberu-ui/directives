@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/directives",
+  "name": "@liberu-ui/directives",
   "version": "2.0.13",
   "description": "Vue directives",
   "main": "index.js",
