@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/directives",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "description": "Vue directives",
   "main": "index.js",
   "scripts": {
