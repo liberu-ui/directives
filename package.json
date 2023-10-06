@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/directives.git"
+    "url": "git+https://github.com/liberu-ui/directives.git"
   },
   "keywords": [
     "directives",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/directives/issues"
+    "url": "https://github.com/liberu-ui/directives/issues"
   },
-  "homepage": "https://github.com/enso-ui/directives#readme",
+  "homepage": "https://github.com/liberu-ui/directives#readme",
   "dependencies": {
     "highlight.js": "^11.0",
     "vue": "^3.0"

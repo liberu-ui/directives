@@ -1,10 +1,10 @@
 # Directives
 
-![NPM License](https://img.shields.io/npm/l/@enso-ui/directives.svg)
-![npm download](https://img.shields.io/npm/dm/@enso-ui/directives.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/directives.svg)
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/directives.svg)
-![npm version](https://img.shields.io/npm/v/@enso-ui/directives.svg)
+![NPM License](https://img.shields.io/npm/l/@liberu-ui/directives.svg)
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/directives.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/directives.svg)
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/directives.svg)
+![npm version](https://img.shields.io/npm/v/@liberu-ui/directives.svg)
 
 Vue Directives Package
 
