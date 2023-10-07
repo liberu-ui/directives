@@ -14,7 +14,7 @@ import fitsBelow from './src/fitsBelow';
 import focus from './src/focus';
 
 /**
- * Module for syntax highlighting using the highlight.ts library.
+ * Module for syntax highlighting using the highlight.js library.
  */
 import hljs from './src/hljs';
 

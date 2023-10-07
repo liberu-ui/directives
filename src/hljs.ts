@@ -1,8 +1,8 @@
 /**
- * A utility module for highlighting code blocks using the 'highlight.ts' library.
+ * A utility module for highlighting code blocks using the 'highlight.js' library.
  */
 
-import hljs from 'highlight.ts';
+import hljs from 'highlight.js';
 
 /**
  * Highlights the code block contained within the specified element before it is mounted in the DOM.
