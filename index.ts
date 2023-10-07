@@ -1,4 +1,3 @@
-```typescript
 /**
  * Module for handling click outside events.
  */
@@ -46,4 +45,3 @@ export {
     resize,
     selectOnFocus,
 };
-```
