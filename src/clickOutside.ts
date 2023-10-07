@@ -1,4 +1,3 @@
-```typescript
 /**
  * Get the value of a CSS property for a given element.
  * @param elem - The element to get the property value from.
@@ -109,4 +108,3 @@ export default {
     document.removeEventListener('click', clickOutsideHandler);
   },
 };
-```

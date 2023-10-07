@@ -1,4 +1,3 @@
-```typescript
 /**
  * This module is responsible for binding a function to the mounted and unmounted lifecycle hooks of a Vue component.
  * When the component is mounted, the provided function is called with a boolean parameter indicating if the component
@@ -52,4 +51,3 @@ export default {
   mounted,
   unmounted,
 };
-```

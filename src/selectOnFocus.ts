@@ -1,4 +1,3 @@
-```typescript
 /**
  * A module for handling focus events and related functionality.
  * @module 
@@ -28,4 +27,3 @@ export default {
   mounted,
   unmounted,
 };
-```
